@@ -1,6 +1,6 @@
-﻿namespace BillSystem
+﻿namespace BillSystem.Forms
 {
-    partial class Form1
+    partial class CustomerMaster
     {
         /// <summary>
         /// Required designer variable.
@@ -30,10 +30,9 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.Text = "CustomerMaster";
         }
 
         #endregion
     }
 }
-
